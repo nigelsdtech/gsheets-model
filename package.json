@@ -1,0 +1,28 @@
+{
+  "name": "gsheets-model",
+  "version": "0.0.1",
+  "description": "Interacts with the google sheets v4 api",
+  "main": "GsheetsModel.js",
+  "dependencies": {
+    "do-google-auth": "~1.0.0",
+    "googleapis": "~18.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nigelsdtech/gsheets-model.git"
+  },
+  "keywords": [
+    "Google",
+    "Sheets",
+    "API"
+  ],
+  "author": "Nigel Stephen D'Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigelsdtech/gsheets-model/issues"
+  }
+}
