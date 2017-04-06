@@ -4,7 +4,7 @@
   "description": "Interacts with the google sheets v4 api",
   "main": "GsheetsModel.js",
   "dependencies": {
-    "do-google-auth": "~1.0.0",
+    "do-google-auth": "git://github.com/nigelsdtech/do-google-auth",
     "googleapis": "~18.0.0"
   },
   "devDependencies": {},
